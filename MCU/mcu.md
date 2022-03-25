@@ -1,4 +1,4 @@
-## fundamental Knowledge
+## Fundamental Knowledge
 
 ### CPU 内存，虚拟内存，磁盘/硬盘的关系
 CPU -> Cache -> 内存 -> 硬盘
