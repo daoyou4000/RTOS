@@ -18,4 +18,9 @@ In thie repository start re-studying the RTOS
  - https://www.sohu.com/a/253256697_774177
  - http://rtos.100ask.net/freeRTOS%E6%95%99%E7%A8%8B/docs/chap11_interrupt_management/section1.html
  
+ ## Receive Data from the Queue
+ - xQueuePeek() 不会删除Queue 里的数据
+ - xQueueReceive() 删除Queue里的数据
+ 
+ 
  
